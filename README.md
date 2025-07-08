@@ -7,3 +7,7 @@ Windowsのみ対応です。LinuxやMacOS、Webには対応していません。
 ## 操作
 クリックで、録画開始・終了をできます。
 録画を終了したのち、１秒ほどで処理が完了します。「Click to download」と表示されるので、クリックしてダウンロードしてください。
+## ソースコード
+[TLM.sb3](TLM.sb3)  
+Scratch、TurboWarp、PenguinModなどで開けます。ただ、ライセンスがApache LicenseなのでScratchへ公開はできません。（あまり触れたことがないのでわかりませんがPenguinModでもできないと思います）  
+また、この作品を使用するときはライセンスをお願いします。
