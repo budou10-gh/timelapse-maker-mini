@@ -10,4 +10,4 @@ Windowsのみ対応です。LinuxやMacOS、Webには対応していません。
 ## ソースコード
 [TLM.sb3](TLM.sb3)  
 Scratch、TurboWarp、PenguinModなどで開けます。ただ、ライセンスがApache LicenseなのでScratchへ公開はできません。（あまり触れたことがないのでわかりませんがPenguinModでもできないと思います）  
-また、この作品を使用するときはライセンスをお願いします。
+また、この作品を使用するときはライセンスの記述をお願いします。
